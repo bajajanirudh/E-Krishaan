@@ -31,7 +31,7 @@ Contact Us Page
 2. Python
 3. Django
 
-If any of the three are not installed, then a one must install them first.
+If any of the three is not installed, then a one must install them first.
 
 To install VS Code, click on https://code.visualstudio.com/Download and then choose the required option to download the same.
 To install python, click on https://www.python.org/downloads/ and then choose the required option to download.\
