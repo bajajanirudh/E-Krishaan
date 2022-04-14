@@ -30,6 +30,7 @@ Contact Us Page
 1. VS Code (any other alternative)
 2. Python
 3. Django
+
 If any of the three are not installed, then a one must install them first.
 
 To install VS Code, click on https://code.visualstudio.com/Download and then choose the required option to download the same.
