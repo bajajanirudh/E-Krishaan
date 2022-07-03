@@ -38,7 +38,3 @@ To install python, click on https://www.python.org/downloads/ and then choose th
 For the installation of django, user should open the command prompt of the desktop and then type **pip install django** and then run it. DJango will be installed.
 
 Once all of the requirements are fulfilled, then a one can extract the source code and open the folder with VS Code, after that, user should open a new terminal and write **python manage.py runserver**, then press "Enter". Now the user will get a link in the terminal, then user can access the website by following that link.
-
-## Contributors
-1. Anirudh Bajaj
-2. Harshita Gupta
