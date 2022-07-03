@@ -1,5 +1,5 @@
 # E-Krishaan
-This project is implemented through a website coded in DJango, HTML and CSS, it's recommended to download and launch this code through desktop.
+This project is implemented through a website coded in DJango, HTML and CSS, it's recommended to clone this repository and launch this code through desktop.
 ## Objectives
 1. Upliftment of farmers by providing them knowledge regarding latest MSP and hence contributing in increasing their income.
 2. Connecting them digitally to various Krishi-mandis and other traders and increase their reach.
